@@ -174,6 +174,78 @@ title = "Let's Create Something Together"
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 btnText = "Contact Us"
 
+############# 2 - Site en PORTUGUESE
+[Languages.pt]
+weight = 3
+languageCode = "pt-pt"
+title = "Cabo Verde Paradisio"
+dateFormat = "January 2, 2006"
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerServiceTitle = "Service"
+footerQuicklinkTitle = "Quicklinks"
+footerAboutTitle = "About"
+footerSubscribeTitle = "Subscribe"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable = true
+heading = "We love to build your paradise in Cabo"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+button = true
+btnText = "Know More"
+btnURL = "/#"
+videoThumb = "images/slider/video-player-thumb.jpg"
+videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable = true
+title = "We have explored for you all the secrets of the archipel"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable = true
+topTitle = "Cabo Paradise Revealed"
+title = "Paradise Blog."
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+
+# Contact Section
+[Languages.en.params.contact]
+enable = true
+topTitle = "DROP US A NOTE"
+title = "Contact Us."
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone = "(03) 9283 2617"
+fax = "+61 3827 3590"
+facebook = "https://www.facebook.com/caboparadise"
+twitter = "https://twitter.com/caboparadise"
+linkedin = "https://www.linkedin.com/caboparadise"
+dribbble = "https://dribbble.com/"
+instagram = "https://www.instagram.com/caboparadise"
+mapLatitude = "16.598275"
+mapLongitude = "-22.914787"
+mapMarker = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable = true
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+title = "Let's Create Something Together"
+subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
@@ -202,7 +274,7 @@ weight = 6
 
 # Footer Service Menu
 [[menu.service]]
-name = "realestate-services"
+name = "realestate-service"
 url = "service/"
 weight = 1
 [[menu.service]]
