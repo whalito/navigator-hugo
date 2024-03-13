@@ -61,7 +61,7 @@ button = true
 btnText = "Meer weten"
 btnURL = "/#"
 videoThumb = "images/slider/video-player-santamaria.jpg"
-videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
+videoURL = "https://www.youtube.com/embed/dDX0t7ZdPX8?si=Xi4btHGqOWFe6oAl"
 
 # About 2 Section
 [Languages.nl.params.aboutSm]
@@ -133,7 +133,7 @@ button = true
 btnText = "Know More"
 btnURL = "/#"
 videoThumb = "images/slider/video-player-santamaria.jpg"
-videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
+videoURL = "https://www.youtube.com/embed/dDX0t7ZdPX8?si=Xi4btHGqOWFe6oAl"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -201,7 +201,7 @@ button = true
 btnText = "Saber Mais"
 btnURL = "/#"
 videoThumb = "images/slider/video-player-santamaria.jpg"
-videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
+videoURL = "https://www.youtube.com/embed/dDX0t7ZdPX8?si=Xi4btHGqOWFe6oAl"
 
 # About 2 Section
 [Languages.pt.params.aboutSm]
