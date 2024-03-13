@@ -1,7 +1,7 @@
 backend:
   name: test-repo
 
-site_url: https://example.com
+site_url: cabo-paradise.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: assets/uploads
