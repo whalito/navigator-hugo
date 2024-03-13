@@ -39,7 +39,7 @@ description = "Design and context by BVIT Webdesign"
 [Languages.nl]
 weight = 1
 languageCode = "nl-nl"
-title = " Dutch version website - Nederlands versie website"
+title = " Nederlandse versie website"
 dateFormat = "2 January 2006"
 
 home = "Home"
@@ -66,22 +66,22 @@ videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 # About 2 Section
 [Languages.nl.params.aboutSm]
 enable = true
-title = "NEDERLANDS We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title = "Het beste online wat Cabo Verde te brengen heeft"
+description = "hier komt nog een tekst met beelden om de sfeer weer te geven"
 
 # Blog Section On Homepage
 [Languages.nl.params.blog]
 enable = true
 topTitle = "Paradise Gems"
-title = "NEDERLANDS Blog."
+title = "Blog"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [Languages.nl.params.contact]
 enable = true
 topTitle = "Contacteer Ons"
-title = "NEDERLANDS Contacteer ons."
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+title = "Contacteer ons"
+subtitle = "Gebruik dit formulier om al je (aan)vragen te doen rond de website. Wij zullen u snel van antwoord zijn"
 address = "14/05, Santa Maria <br> Sal , Cabo Verde"
 phone = "+238 xx xx xx  or +32 478 800 401"
 fax = "no fax"
@@ -98,7 +98,7 @@ mapMarker = "images/marker.png"
 [Languages.nl.params.cta]
 enable = true
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
-title = "NEDERLANDS Let us build your dream"
+title = "Laat ons je levensdroom inkleuren. Wij zorgen voor je stek zodat je maximaal kan genieten van het paradijs"
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 btnText = "Ons contacteren"
 
