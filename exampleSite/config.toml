@@ -1,6 +1,6 @@
-baseURL = "https://demo.gethugothemes.com/navigator/examplesite/"
+baseURL = "https://cabo-paradise.netlify.app/"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Welcome to Cabo Verde - Your little paradise"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -46,11 +46,11 @@ home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "NEDERLANDS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "NEDERLANDS Services"
-footerQuicklinkTitle = "NEDERLANDS Quick links"
-footerAboutTitle = "NEDERLANDS About"
-footerSubscribeTitle = "NEDERLANDS Subscribe"
+footerDescription = "Wij zijn Cabo Paradise."
+footerServiceTitle = "Diensten"
+footerQuicklinkTitle = "Links"
+footerAboutTitle = "Over ons"
+footerSubscribeTitle = "Registreer"
 
 # Hero Area Section
 [Languages.nl.params.hero]
@@ -58,8 +58,8 @@ enable = true
 heading = "NEDERLANDS Geniet van uw stukje paradijs op aarde"
 description = "NL Versie - Een heerlijk stukje paradijs op aarde - Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button = true
-btnText = "Know More"
-btnURL = "https://themefisher.com/"
+btnText = "Meer weten"
+btnURL = "/#"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
@@ -70,43 +70,43 @@ title = "NEDERLANDS We have explored the digital landscape with passion for a lo
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
 # Blog Section On Homepage
-[Languages.fr.params.blog]
+[Languages.nl.params.blog]
 enable = true
-topTitle = "OUR UNTOLD STORY"
-title = "FRANCAIS Blog."
+topTitle = "Paradise Gems"
+title = "NEDERLANDS Blog."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
-[Languages.fr.params.contact]
+[Languages.nl.params.contact]
 enable = true
-topTitle = "DROP US A NOTE"
-title = "FRANCAIS Contact Us."
+topTitle = "Contacteer Ons"
+title = "NEDERLANDS Contacteer ons."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
-facebook = "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin = "https://www.linkedin.com/"
+address = "14/05, Santa Maria <br> Sal , Cabo Verde"
+phone = "+238 xx xx xx  or +32 478 800 401"
+fax = "no fax"
+facebook = "https://www.facebook.com/caboparadise"
+twitter = "https://twitter.com/caboparadise"
+linkedin = "https://www.linkedin.com/caboparadise"
 dribbble = "https://dribbble.com/"
-instagram = "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude = "-0.127758"
+instagram = "https://www.instagram.com/caboparadise"
+mapLatitude = "16.598275"
+mapLongitude = "-22.914787"
 mapMarker = "images/marker.png"
 
 # Call to Action Section on About Page
-[Languages.fr.params.cta]
+[Languages.nl.params.cta]
 enable = true
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
-title = "FRANCAIS Let's Create Something Together"
+title = "NEDERLANDS Let us build your dream"
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Nous contacter"
+btnText = "Ons contacteren"
 
 ############# 2 - Site en ENGLISH
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "Cabo Verde Paradise"
 dateFormat = "January 2, 2006"
 home = "Home"
 logo = "images/logo.png"
@@ -127,25 +127,25 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable = true
-heading = "We love to make brands grow"
+heading = "We love to build your paradise in Cabo"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button = true
 btnText = "Know More"
-btnURL = "https://themefisher.com/"
+btnURL = "/#"
 videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable = true
-title = "We have explored the digital landscape with passion for a long time"
+title = "We have explored for you all the secrets of the archipel"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable = true
-topTitle = "OUR UNTOLD STORY"
-title = "Blog."
+topTitle = "Cabo Paradise Revealed"
+title = "Paradise Blog."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
@@ -157,13 +157,13 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reic
 address = "14/05, Stockhome <br> Victori Palace , United States"
 phone = "(03) 9283 2617"
 fax = "+61 3827 3590"
-facebook = "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin = "https://www.linkedin.com/"
+facebook = "https://www.facebook.com/caboparadise"
+twitter = "https://twitter.com/caboparadise"
+linkedin = "https://www.linkedin.com/caboparadise"
 dribbble = "https://dribbble.com/"
-instagram = "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude = "-0.127758"
+instagram = "https://www.instagram.com/caboparadise"
+mapLatitude = "16.598275"
+mapLongitude = "-22.914787"
 mapMarker = "images/marker.png"
 
 # Call to Action Section on About Page
@@ -202,7 +202,7 @@ weight = 6
 
 # Footer Service Menu
 [[menu.service]]
-name = "graphicdesign"
+name = "realestate-services"
 url = "service/"
 weight = 1
 [[menu.service]]
