@@ -60,7 +60,7 @@ description = "NL Versie - Een heerlijk stukje paradijs op aarde - Lorem ipsum d
 button = true
 btnText = "Meer weten"
 btnURL = "/#"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/video-player-santamaria.jpg"
 videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
 # About 2 Section
@@ -128,11 +128,11 @@ expire_days = 2
 [Languages.en.params.hero]
 enable = true
 heading = "We love to build your paradise in Cabo"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+description = "Wondering if you can get "High on Life" too? Did you found your paradise sport on earth? Looking for a location to visit paradise more often? Say no more. We can take care of anything so you can focus on the "Highs""
 button = true
 btnText = "Know More"
 btnURL = "/#"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/video-player-santamaria.jpg"
 videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
 # About 2 Section
@@ -200,7 +200,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo 
 button = true
 btnText = "Saber Mais"
 btnURL = "/#"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/video-player-santamaria.jpg"
 videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
 # About 2 Section

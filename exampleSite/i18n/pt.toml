@@ -1,13 +1,13 @@
 [about]
-other = "À Propos"
+other = "About"
 [service]
-other = "Nos Services"
+other = "Service"
 [portfolio]
-other = "Portefeuille"
+other = "Portfolio"
 [blog]
 other = "Blog"
 [contact]
-other = "Contacter"
+other = "Contact"
 
 [graphicdesign]
 other = "Graphic Design"
@@ -17,8 +17,8 @@ other = "Web Design"
 other = "Web Development"
 
 [partners]
-other = "Les Partenaires"
+other = "Partners"
 [faqs]
 other = "FAQ's"
 [badges]
-other = "Insignes"
+other = "Badges"
