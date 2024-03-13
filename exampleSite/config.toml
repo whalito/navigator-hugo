@@ -154,9 +154,9 @@ enable = true
 topTitle = "DROP US A NOTE"
 title = "Contact Us."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
+address = "14/05, Santa Maria <br> Sal , Cabo Verde"
+phone = "fix number"
+fax = "no fax"
 facebook = "https://www.facebook.com/caboparadise"
 twitter = "https://twitter.com/caboparadise"
 linkedin = "https://www.linkedin.com/caboparadise"
@@ -193,38 +193,38 @@ footerSubscribeTitle = "Subscrever"
 
 
 # Hero Area Section
-[Languages.en.params.hero]
+[Languages.pt.params.hero]
 enable = true
-heading = "We love to build your paradise in Cabo"
+heading = "Adoramos construir o seu paraíso no Cabo"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button = true
-btnText = "Know More"
+btnText = "Saber Mais"
 btnURL = "/#"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://youtu.be/alyKpwrx-2k?feature=shared"
 
 # About 2 Section
-[Languages.en.params.aboutSm]
+[Languages.pt.params.aboutSm]
 enable = true
 title = "We have explored for you all the secrets of the archipel"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
 # Blog Section On Homepage
-[Languages.en.params.blog]
+[Languages.pt.params.blog]
 enable = true
-topTitle = "Cabo Paradise Revealed"
-title = "Paradise Blog."
+topTitle = "Cabo Paraíso revelado"
+title = "Paraiso Blog."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
-[Languages.en.params.contact]
+[Languages.pt.params.contact]
 enable = true
-topTitle = "DROP US A NOTE"
-title = "Contact Us."
+topTitle = "Deixe-nos uma nota"
+title = "Contacte-nos."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
+address = "14/05, Santa Maria <br> Sal , Cabo Verde"
+phone = "fix number"
+fax = "no fax"
 facebook = "https://www.facebook.com/caboparadise"
 twitter = "https://twitter.com/caboparadise"
 linkedin = "https://www.linkedin.com/caboparadise"
@@ -235,7 +235,7 @@ mapLongitude = "-22.914787"
 mapMarker = "images/marker.png"
 
 # Call to Action Section on About Page
-[Languages.en.params.cta]
+[Languages.pt.params.cta]
 enable = true
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 title = "Let's Create Something Together"
