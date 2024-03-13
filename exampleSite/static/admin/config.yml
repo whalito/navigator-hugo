@@ -55,13 +55,13 @@ collections: # A list of collections the CMS should be able to edit
 
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
-  - name: 'restaurants' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Restaurants' # Used in the UI
-    label_singular: 'Restaurant' # Used in the UI, ie: "New Post"
+  - name: 'Estates' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 'Estates' # Used in the UI
+    label_singular: 'Estates' # Used in the UI, ie: "New Post"
     description: >
-      Restaurants is an entry type used for testing galleries, relations and other widgets.
+      Estates is an entry type used for testing galleries, relations and other widgets.
       The tests must be written in such way that adding new fields does not affect previous flows.
-    folder: '_restaurants'
+    folder: '_estates'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
