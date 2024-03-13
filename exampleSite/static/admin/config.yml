@@ -1,5 +1,8 @@
 backend:
-  name: test-repo
+  name: github
+  repo: whalito/navigator-hugo # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
 
 site_url: cabo-paradise.netlify.app
 
