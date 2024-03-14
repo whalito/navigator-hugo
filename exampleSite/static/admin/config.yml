@@ -2,7 +2,7 @@ backend:
   name: github
   repo: whalito/navigator-hugo # Path to your GitHub repository
   # optional, defaults to master
-  branch: main
+  branch: master
 
 site_url: cabo-paradise.netlify.app
 

@@ -22,5 +22,6 @@
       "title": "images",
       "path": "[[workspace]]/exampleSite/static/images"
     }
-  ]
+  ],
+  "frontMatter.website.host": "https://cabo-paradise.netlify.app"
 }
