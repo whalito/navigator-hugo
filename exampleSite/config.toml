@@ -57,7 +57,7 @@ footerSubscribeTitle = "Registreer"
 # Hero Area Section
 [Languages.nl.params.hero]
 enable = true
-heading = "NEDERLANDS Geniet van uw stukje paradijs op aarde"
+heading = " Geniet van uw stukje paradijs op aarde"
 description = "NL Versie - Een heerlijk stukje paradijs op aarde - Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button = true
 btnText = "Meer weten"
