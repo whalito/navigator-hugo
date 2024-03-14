@@ -1,0 +1,22 @@
+{
+  "name": "navigator-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tinacms build && hugo"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^1.6.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.42",
+    "@types/node": "^20.11.27"
+  }
+}
