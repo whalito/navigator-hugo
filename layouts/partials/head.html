@@ -5,6 +5,9 @@
 {{ with .Site.Params.author }} <meta name="author" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
 
+<!-- Google Tag Manager link -->
+{{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
+
 <title>{{ .Title }}</title>
 
 {{ "<!-- Mobile Specific Meta -->" | safeHTML }}

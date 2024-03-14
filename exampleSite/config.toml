@@ -19,7 +19,9 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
+favicon = "images/favicon.png"
 logo = "images/logo1.png"
+gtm_id = "G-MCDPN8BZXK"
 
 # Gestion des langues : FR / EN / NL / DE / PT
 [[Params.listeLangues]]
