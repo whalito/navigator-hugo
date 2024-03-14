@@ -7,7 +7,7 @@ summaryLength = 10
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = "G-KKH621D4WP" # your analitics ID
+googleAnalytics = "UA-291088" # your analitics ID
 
 enableGitInfo = false
 pygmentsCodeFences = true
