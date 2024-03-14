@@ -1,0 +1,26 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "about",
+      "path": "[[workspace]]/exampleSite/content/about"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/exampleSite/content/blog"
+    },
+    {
+      "title": "contact",
+      "path": "[[workspace]]/exampleSite/content/contact"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/exampleSite/content/posts"
+    },
+    {
+      "title": "images",
+      "path": "[[workspace]]/exampleSite/static/images"
+    }
+  ]
+}
